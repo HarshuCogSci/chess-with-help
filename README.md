@@ -1,5 +1,5 @@
 ## Introduction
-The aim of the project are:
+The ideas behind the project:
 - Using visual markers to show the extent of reach for all pieces of a color.
 - Allowing players to plan multiple moves in advance
 
